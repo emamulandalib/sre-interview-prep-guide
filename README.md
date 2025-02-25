@@ -107,7 +107,7 @@ Contributions are always welcome!
 
 - [x] [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases)
 - [x] [7 Database Paradigms](https://youtu.be/W2Z7fbCLSTw)
-- [ ] [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+- [x] [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
 - [ ] [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html)
 - [ ] [ACID vs BASE in Databases](https://medium.com/geekculture/acid-vs-base-in-databases-1bcad774da26)
 - [ ] [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
