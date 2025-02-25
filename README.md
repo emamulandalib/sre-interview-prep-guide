@@ -105,7 +105,7 @@ Contributions are always welcome!
 
 ## Databases
 
-- [ ] [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases)
+- [x] [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases)
 - [ ] [7 Database Paradigms](https://youtu.be/W2Z7fbCLSTw)
 - [ ] [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
 - [ ] [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html)
